@@ -7,5 +7,9 @@ Project : Virtual Mouse for device
 	<p>
 	<b><i>Desc:</i></b> 
 		Operating mouse and other controls using hand gestures. <br>
+		Using:
+		<ul>
+			<li> Mediapipe </li>
+			<li> OpenCV </li>
 	</p>
 </body>
