@@ -5,7 +5,7 @@ Project : Virtual Mouse for device
 
 <body>
 	<p>
-		<b>Desc:</b> 
+	<b><i>Desc:</i></b> 
 		Operating mouse and other controls using hand gestures. <br>
 	</p>
 </body>
